@@ -36,7 +36,7 @@ These simulations provide a practical understanding of how signals are modulated
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/communication-systems-matlab.git
+   git clone https://github.com/Narayanirkal123/Modulation-Multiplexing-Simulations.git
    ```
 2. **Open MATLAB** and navigate to the repository folder.
 3. **Run any script**: Simply type the filename (without `.m`) in the Command Window or hit **F5** while the script is open in the editor.
