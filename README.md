@@ -51,4 +51,3 @@ Most scripts generate multi-panel figures showing:
 - **Constellation Diagrams**: For digital modulation schemes (PSK/QAM).
 
 ---
-*Created for the 5th Semester Communication Systems Course.*
